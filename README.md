@@ -1,5 +1,5 @@
 # analyticsproject
-Data Analytics for Business project for an ITU Course. Project was about using finding a dataset and analysing it by using different machine learning algorithms on Python.
+Data Analytics for Business project for an ITU Course. Project was about finding a dataset and analysing it by using different machine learning algorithms on Python.
 
 
 # Revision notes - 11.04.2022
